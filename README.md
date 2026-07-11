@@ -6,7 +6,11 @@ The application extracts text from PDFs, splits it into smaller chunks, converts
 Key Features:
 
 Upload multiple PDF files
+<br>
 Ask questions in natural language
+<br>
 Fast document retrieval using FAISS
+<br>
 Context-aware answers using RAG
+<br>
 Interactive chat interface with Streamlit
